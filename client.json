@@ -2,7 +2,8 @@
   "client_id": "https://bestrand.github.io/registry/client.json",
   "client_name": "cli",
   "redirect_uris": [
-    "http://127.0.0.1:8770/callback"
+    "http://127.0.0.1:8770/callback",
+    "http://127.0.0.1/callback"
   ],
   "grant_types": [
     "authorization_code"
